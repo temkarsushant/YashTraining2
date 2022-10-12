@@ -1,0 +1,10 @@
+
+s	java:S125P"<This block of commented-out lines of code should be removed.(º£³şÿÿÿÿ8¿‡íµ±0HŞRMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8©§¸±0HßRMAJORZ
+CODE_SMELL
+n	java:S125E"<This block of commented-out lines of code should be removed.(œ˜Í€8•Êêµ±0HàRMAJORZ
+CODE_SMELL
+’
+java:S1128"ZRemove this unused import 'com.yash.springcrud.springjdbc.serviceimpl.ProductServiceImpl'.(ûÿô†ûÿÿÿÿ8ÿİ­¸±0HáRMINORZ
+CODE_SMELL

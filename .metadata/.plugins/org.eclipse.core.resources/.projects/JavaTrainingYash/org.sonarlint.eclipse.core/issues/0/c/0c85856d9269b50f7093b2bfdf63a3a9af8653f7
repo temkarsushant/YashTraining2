@@ -1,0 +1,20 @@
+
+d	java:S106	"9Replace this use of System.out or System.err by a logger.(§ã¨€HœRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¨ô¢ùÿÿÿÿ8—Š…”®0H RMAJORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(ÓÉ«¨ıÿÿÿÿ8—Š…”®0HRMINORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(ŒèÀÖ8‹Á“”®0HÊRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(íğŠ8—Š…”®0H¡RMAJORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(å³Œõ8‹Á“”®0HÇRMINORZ
+CODE_SMELL
+’
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ñæÄ•8‹Á“”®0HÆRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(à˜Ø°ıÿÿÿÿ8ùÄ•”®0HÎRMAJORZ
+CODE_SMELL

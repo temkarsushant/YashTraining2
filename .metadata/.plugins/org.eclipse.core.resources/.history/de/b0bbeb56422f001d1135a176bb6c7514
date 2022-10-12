@@ -1,0 +1,5 @@
+package com.yash.springcrud.springjdbc;
+
+public class City {
+
+}

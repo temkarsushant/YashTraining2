@@ -1,0 +1,18 @@
+
+˜
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö§¹ê8÷÷ˆì®0HÑRMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8¢ÎŽì®0HÒRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ß©º”ÿÿÿÿÿ8£ý£ì®0HÔRMAJORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8Á­žì®0HÕRMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8£ý£ì®0H×RMINORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¢ÎŽì®0HÙRMINORZ
+CODE_SMELL

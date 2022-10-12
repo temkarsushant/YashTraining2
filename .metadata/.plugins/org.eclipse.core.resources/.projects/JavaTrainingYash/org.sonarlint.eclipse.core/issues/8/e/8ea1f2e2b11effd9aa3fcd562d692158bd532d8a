@@ -1,0 +1,20 @@
+
+e
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8çûµÀ®0H”RMINORZ
+CODE_SMELL
+e
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8çûµÀ®0H•RMINORZ
+CODE_SMELL
+m
+java:S3518"9Make sure "hcf" can't be zero before doing this division.(ßÿ¹äþÿÿÿÿ8çûµÀ®0H–RCRITICALZBUG
+q
+java:S1659">Declare "y" and all following declarations on a separate line.(¥·„«8çûµÀ®0H™RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(©Çêñ8çûµÀ®0HŸRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¬··Å8çûµÀ®0H RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ðç°ò8çûµÀ®0H¡RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(çç™áüÿÿÿÿ8çûµÀ®0H¢RMAJORZ
+CODE_SMELL

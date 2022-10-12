@@ -1,0 +1,56 @@
+
+i	java:S106F"9Replace this use of System.out or System.err by a logger.(‹–„¦ÿÿÿÿÿHõRMAJORZ
+CODE_SMELL
+l	java:S125m"<This block of commented-out lines of code should be removed.(þ¶ªÎúÿÿÿÿHöRMAJORZ
+CODE_SMELL
+c
+java:S1135€"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿH÷RINFOZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µŽ²8£·Ëê®0HøRMINORZ
+CODE_SMELL
+i	java:S106B"9Replace this use of System.out or System.err by a logger.(à­†ôùÿÿÿÿHúRMAJORZ
+CODE_SMELL
+n	java:S125#"<This block of commented-out lines of code should be removed.(Ú­û8£·Ëê®0HûRMAJORZ
+CODE_SMELL
+c	java:S106@"9Replace this use of System.out or System.err by a logger.(Ïª·kHþRMAJORZ
+CODE_SMELL
+i	java:S106T"9Replace this use of System.out or System.err by a logger.(á¬ÚœûÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+i	java:S106C"9Replace this use of System.out or System.err by a logger.(èÌáêüÿÿÿÿH€RMAJORZ
+CODE_SMELL
+i	java:S106E"9Replace this use of System.out or System.err by a logger.(ëÌûûÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106b"9Replace this use of System.out or System.err by a logger.(âáŸàøÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+w
+java:S1192."HDefine a constant instead of duplicating this literal "Sushant" 4 times.(šŽ˜HƒRCRITICALZ
+CODE_SMELL
+i	java:S106K"9Replace this use of System.out or System.err by a logger.(ÅÁŒùÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ú­û8’ÉÇê®0H‰RMAJORZ
+CODE_SMELL
+i	java:S106V"9Replace this use of System.out or System.err by a logger.(í­‡…ÿÿÿÿÿH“RMAJORZ
+CODE_SMELL
+l	java:S1258"<This block of commented-out lines of code should be removed.(¡ü¹€üÿÿÿÿH”RMAJORZ
+CODE_SMELL
+m
+java:S1075|"ARefactor your code to get this URI from a customizable parameter.(Ù½‘H—RMINORZ
+CODE_SMELL
+j
+java:S2259V"@A "NullPointerException" could be thrown; "t2" is nullable here.(í­‡…ÿÿÿÿÿH˜RMAJORZBUG
+b
+java:S1135P"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHRINFOZ
+CODE_SMELL
+i	java:S106w"9Replace this use of System.out or System.err by a logger.(÷í½òýÿÿÿÿHžRMAJORZ
+CODE_SMELL
+m	java:S125…"<This block of commented-out lines of code should be removed.(¡¤¼µÿÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+i	java:S106k"9Replace this use of System.out or System.err by a logger.(«Œ·ùÿÿÿÿH RMAJORZ
+CODE_SMELL
+i	java:S106r"9Replace this use of System.out or System.err by a logger.(É†¼¯ûÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+i	java:S106H"9Replace this use of System.out or System.err by a logger.(Ÿ§Ú­üÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+c	java:S106>"9Replace this use of System.out or System.err by a logger.(¦˜»H£RMAJORZ
+CODE_SMELL

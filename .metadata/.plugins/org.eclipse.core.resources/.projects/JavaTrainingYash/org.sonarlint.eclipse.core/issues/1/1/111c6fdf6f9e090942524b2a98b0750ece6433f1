@@ -1,0 +1,24 @@
+
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³å‚È®0Hã
+RMINORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8³å‚È®0Hİ
+RMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8³å‚È®0Hß
+RMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8³å‚È®0Há
+RMINORZ
+CODE_SMELL
+k
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ8³å‚È®0Hå
+RMINORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(şüóÚşÿÿÿÿ8ç…È®0Hû
+RMAJORZ
+CODE_SMELL

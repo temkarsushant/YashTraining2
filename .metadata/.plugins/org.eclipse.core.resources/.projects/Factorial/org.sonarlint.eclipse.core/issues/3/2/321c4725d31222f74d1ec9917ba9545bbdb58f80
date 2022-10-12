@@ -1,0 +1,9 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Á£ü8œ…ê±0HÛRMAJORZ
+CODE_SMELL
+‹
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ÿõø·ùÿÿÿÿ8–±0HİRMINORZ
+CODE_SMELL
+j
+java:S1611"2Remove the parentheses around the "name" parameter(Ÿõø·ùÿÿÿÿ8–±0HÜRMINORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+package com.yash.springcrud.springjdbc;
+
+public class User {
+	City objcity;
+
+	User(City objci) {
+		objcity = objci;
+	}
+}
